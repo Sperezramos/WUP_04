@@ -81,4 +81,4 @@ We have two sets that are different. Highschool is different than graduates and 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
  
-In conclusion there is a difference between graduates and highschool. As well as LT high school compared to graduate. With LT high school having the lowest median. So the lowest average would be found in LT high school. There is a differnence between those two categories because you get negative values only when comapring them. 
+In conclusion there is a difference between graduates and high school. As well as LT high school compared to graduate. With LT high school having the lowest median. So the lowest average would be found in LT high school. There is a difference between those two categories because you get negative values only when comparing them. 
